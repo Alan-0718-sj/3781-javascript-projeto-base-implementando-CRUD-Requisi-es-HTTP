@@ -1,0 +1,6 @@
+Figma: https://www.figma.com/community/file/1418667851533626562
+
+faça download: https://github.com/alura-cursos/3781-javascript/archive/refs/heads/projeto-base.zip
+
+repositório no GitHub: https://github.com/alura-cursos/3781-javascript/tree/projeto-base
+
