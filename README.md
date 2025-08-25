@@ -58,3 +58,7 @@ Para executar o frontend, abra o projeto no Visual Studio Code. Com a extensão 
 Acesse o frontend localmente em seu navegador:
 
 http://localhost:5500
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
